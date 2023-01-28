@@ -1,3 +1,4 @@
+# This Project was made using Jupyter notebook and MySQL 5.7.
 import mysql.connector
 import pandas as pd
 import numpy as np
