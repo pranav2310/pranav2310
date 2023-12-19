@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pranav2310
 - 👀 I’m interested in Programming and Gaming.
-- 🌱 I’m currently learning Python and C++.
+- 🌱 I’m currently learning Python and DSA in C++.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me @vpranav2310 on instagram and twitter, @vpranav2310#2617 on discord.
 
